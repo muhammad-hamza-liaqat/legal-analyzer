@@ -1,0 +1,7 @@
+numpy==1.26.4
+spacy==3.8.0
+torch
+transformers
+sentencepiece
+PyPDF2
+python-docx

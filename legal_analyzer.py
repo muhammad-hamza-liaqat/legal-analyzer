@@ -122,6 +122,7 @@ def process_pdf(file_path):
 # =========================
 if __name__ == "__main__":
     FILE_PATH = "media/legal_document.pdf"
+    # FILE_PATH = "media/non_legal_document.pdf"
 
     try:
         output = process_pdf(FILE_PATH)

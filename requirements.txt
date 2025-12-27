@@ -5,3 +5,4 @@ transformers==4.39.3
 sentencepiece
 PyPDF2
 python-docx
+sacremoses
